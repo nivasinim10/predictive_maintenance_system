@@ -1,5 +1,7 @@
 Predictive Maintenance System using NASA C-MAPSS Dataset
 Project Overview
+
+
 This project implements a Predictive Maintenance System using the NASA C-MAPSS Turbofan Engine Degradation Dataset. The objective is to analyze engine sensor data, identify degradation stages, perform fault classification, and support Remaining Useful Life (RUL) prediction workflows.
 The notebook demonstrates a complete machine learning workflow for predictive maintenance, including:
 •	Data loading and preprocessing
