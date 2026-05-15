@@ -48,11 +48,11 @@ Dataset Includes
 •	Engine cycles until failure
 •	Remaining Useful Life (RUL) information
  
-** Dataset Download Link**
+**Dataset Download Link**
 Download the dataset directly from NASA:
 url for NASA C-MAPSS Dataset: https://data.nasa.gov/docs/legacy/CMAPSSData.zip
  
-** Steps to Access and Use the Dataset**
+**Steps to Access and Use the Dataset**
 1.	Download the Dataset
 Open the NASA dataset link:
 https://data.nasa.gov/docs/legacy/CMAPSSData.zip
