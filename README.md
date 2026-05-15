@@ -12,7 +12,7 @@
 - [Key Features Implemented](#key-features-implemented)
 - [Future Enhancements](#future-enhancements)
 - [Example Use Cases](#example-use-cases)
-- [License](#license)
+
 
 ---
 
