@@ -12,6 +12,7 @@
 - [Key Features Implemented](#key-features-implemented)
 - [Future Enhancements](#future-enhancements)
 - [Example Use Cases](#example-use-cases)
+- [Author](#author)
 
 
 ---
@@ -235,7 +236,9 @@ This project can be adapted for:
 - Reliability engineering research
 
 ---
+# Author
 
+Developed by **Nivasini Muthukumaran**.
 
 
 > **Dataset credit:** NASA Prognostics Center of Excellence — C-MAPSS Turbofan Engine Degradation Simulation Dataset.
